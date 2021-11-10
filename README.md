@@ -1,4 +1,4 @@
 # Postgresql-Rest-Api
 
-/test  :  get categories </br>
-/test/s  :  get product
+<h2>/test  :  get categories </br> </h2>
+<h2>/test/s  :  get product </h2>
